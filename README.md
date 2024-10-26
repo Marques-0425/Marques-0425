@@ -1,12 +1,9 @@
-- 👋 Hello, I'm @Marques-0425
-- 👀 I'm interested in Programming
-- 🌱 I'm currently learning about front-end development
-- 💞️ I'm looking to collaborate on...
-- 📫 How to contact me...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I like games
+- 👋 Olá!, Eu Sou o Luís Octávio
+- Sou um jovem iniciante na área de Front-End, encantado com o mundo da criação de sites através de códigos. Pretendo melhorar cada vez mais, adquirindo experiência e aprendendo novas técnicas e possibilidades.
 
-<!---
-Marques-0425/Marques-0425 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-octavio-marques-siqueira-2a13332ab/)
+
+- Tecnologias que Uso
+  
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
